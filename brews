@@ -1,0 +1,4 @@
+brew tap caskroom/cask
+brew install node
+brew install git-flow
+brew install thefuck
