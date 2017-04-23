@@ -15,3 +15,4 @@ brew cask install the-unarchiver
 brew cask install evernote
 brew cask install skitch
 brew cask install gitter
+brew cask install parallels-desktop
