@@ -1,4 +1,17 @@
 brew tap caskroom/cask
+brew install zsh
+brew install trash
 brew install node
+brew install git
 brew install git-flow
 brew install thefuck
+brew cask install iterm2
+brew cask install slack
+brew cask install spotify
+brew cask install google-chrome
+brew cask install dropbox
+brew cask install caffeine
+brew cask install the-unarchiver
+brew cask install evernote
+brew cask install skitch
+brew cask install gitter
