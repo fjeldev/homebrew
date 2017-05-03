@@ -6,6 +6,7 @@ brew install git
 brew install git-flow
 brew install thefuck
 
+brew cask install toggldesktop
 brew cask install keepassx
 brew cask install iterm2
 brew cask install slack
