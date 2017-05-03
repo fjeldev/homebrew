@@ -1,10 +1,12 @@
 brew tap caskroom/cask
-brew install zsh
+
 brew install trash
 brew install node
 brew install git
 brew install git-flow
 brew install thefuck
+
+brew cask install keepassx
 brew cask install iterm2
 brew cask install slack
 brew cask install spotify
