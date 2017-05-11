@@ -8,6 +8,7 @@ brew install thefuck
 brew install wget
 brew install nmap
 
+brew cask install microsoft-teams
 brew cask install firefox
 brew cask install visual-studio-code
 brew cask install toggldesktop
