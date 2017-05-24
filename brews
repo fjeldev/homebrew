@@ -7,6 +7,7 @@ brew install git-flow
 brew install thefuck
 brew install wget
 brew install nmap
+brew install youtube-dl
 
 brew cask install microsoft-teams
 brew cask install firefox
