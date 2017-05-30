@@ -8,7 +8,9 @@ brew install thefuck
 brew install wget
 brew install nmap
 brew install youtube-dl
+brew install ponyc
 
+brew cask install docker
 brew cask install vlc
 brew cask install microsoft-teams
 brew cask install firefox
