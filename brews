@@ -10,6 +10,7 @@ brew install nmap
 brew install youtube-dl
 brew install ponyc
 
+brew cask install anyipsum
 brew cask install teamviewer
 brew cask install docker
 brew cask install vlc
