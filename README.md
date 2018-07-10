@@ -1,2 +1,2 @@
 # homebrew
-A collection of brews
+My personal collection of brews and casks
