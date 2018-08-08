@@ -1,2 +1,2 @@
 #!/bin/bash
-./for-each.sh casks "brew tap"
+./for-each.sh taps "brew tap"
